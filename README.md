@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**RealXoctic/RealXoctic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- Hello I am Xoctic
 - 🔭 I’m currently working on my Minecraft Bedrock Server
 - 🌱 I’m currently learning PHP,HTML,Node.js
 - 👯 I’m looking to collaborate on my Minecraft Server
